@@ -1,0 +1,3 @@
+product_name,activity_name,activity_category,life_cycle_stage,quantity,quantity_unit,factor_id,source_note,data_origin,reporting_period,supplier,assessment_name,material_type,functional_unit,location
+Example aluminium part,Primary aluminium,Raw materials,Raw material supply,100,kg,EF-AL-PRIM-ILLUS,Replace with plant data,primary,2024,Supplier name,Plant screening 2024,Aluminium,1 part,India
+Example aluminium part,Grid electricity,Electricity,Manufacturing,200,kWh,EF-ELEC-IN-GRID-ILLUS,Replace with meter data,primary,2024,,Plant screening 2024,Aluminium,1 part,India

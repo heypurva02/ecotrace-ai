@@ -1,0 +1,15 @@
+demo_key,activity_name,activity_category,life_cycle_stage,quantity,quantity_unit,factor_id,data_origin,source_note
+DEMO-AL-CAN-2024,Primary aluminium sheet (synthetic quantity),Raw materials,Raw material supply,150,kg,EF-AL-PRIM-ILLUS,demonstration,Synthetic demonstration record
+DEMO-AL-CAN-2024,Recycled aluminium (synthetic quantity),Raw materials,Raw material supply,50,kg,EF-AL-REC-ILLUS,demonstration,Synthetic demonstration record
+DEMO-AL-CAN-2024,Forming and finishing electricity,Electricity,Manufacturing,450,kWh,EF-ELEC-IN-GRID-ILLUS,estimated,Synthetic electricity estimate
+DEMO-AL-CAN-2024,On-site diesel for handling equipment,Fuel and direct energy use,Manufacturing,40,L,EF-DIESEL-ILLUS,estimated,
+DEMO-AL-CAN-2024,Coil inbound freight,Inbound transport,Inbound logistics,80,tkm,EF-TRUCK-TKM-ILLUS,estimated,
+DEMO-AL-CAN-2024,Finished goods outbound freight,Outbound transport,Outbound logistics,45,tkm,EF-TRUCK-TKM-ILLUS,estimated,
+DEMO-AL-CAN-2024,Process and wash water,Water consumption,Manufacturing,8,m3,EF-WATER-ILLUS,estimated,
+DEMO-AL-CAN-2024,Offcut scrap to landfill,Waste treatment,Manufacturing,12,kg,EF-WASTE-ILLUS,estimated,
+DEMO-AL-CAN-2024,Surface-treatment chemicals (no factor available),Manufacturing processes,Manufacturing,6,kg,,estimated,Intentionally unmapped
+DEMO-STEEL-BRACKET-2024,Primary steel coil,Raw materials,Raw material supply,420,kg,EF-STEEL-BOF-ILLUS,demonstration,
+DEMO-STEEL-BRACKET-2024,Recycled steel input,Raw materials,Raw material supply,80,kg,EF-STEEL-EAF-ILLUS,demonstration,
+DEMO-STEEL-BRACKET-2024,Pressing and welding electricity,Electricity,Manufacturing,310,kWh,EF-ELEC-IN-GRID-ILLUS,estimated,
+DEMO-STEEL-BRACKET-2024,Coil inbound freight,Inbound transport,Inbound logistics,120,tkm,EF-TRUCK-TKM-ILLUS,estimated,
+DEMO-STEEL-BRACKET-2024,Bracket outbound freight,Outbound transport,Outbound logistics,60,tkm,EF-TRUCK-TKM-ILLUS,estimated,
